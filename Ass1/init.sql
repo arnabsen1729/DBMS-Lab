@@ -1632,6 +1632,18 @@ VALUES
   );
 
 INSERT INTO
+  students
+VALUES
+  (
+    '51054793',
+    'Shakira',
+    '2001-05-23',
+    'CSE',
+    '4',
+    '5900000'
+  );
+
+INSERT INTO
   crs_regd
 VALUES
   ('51052466', 'ETC_2', 82);
@@ -1745,3 +1757,20 @@ INSERT INTO
   crs_regd
 VALUES
   ('51052466', 'PHY_4', 79);
+
+INSERT INTO
+  students
+VALUES
+  (
+    '51053418',
+    'Keya2.0',
+    '2001-07-25',
+    'CSE',
+    '6',
+    '5570000'
+  );
+
+INSERT INTO
+  crs_regd
+VALUES
+  ('51053418', 'CSE_1', 79);
